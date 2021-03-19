@@ -9,6 +9,8 @@
 
 ![](https://komarev.com/ghpvc/?username=datacampero&color=brightgreen&style=flat)
 
+---
+
 ### Data Science related projects:
 
 |                                                                                                               |                                                                                             |
@@ -29,15 +31,6 @@
 - [Data Science Dashboard](https://github.com/pcsingh/Data-Science-Dashboard)
 - [Contact Keeper](https://github.com/pcsingh/ContactKeeper)
 
+---
 
-
-
-
-
-
-
-
-
-
-
-[![Prem's github stats](https://github-readme-stats.vercel.app/api?username=pcsingh&hide=stars&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)]
+[![Prem's github stats](https://github-readme-stats.vercel.app/api?username=datacampero&hide=stars&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/pcsingh/github-readme-stats)
