@@ -8,3 +8,36 @@
 [![](https://img.icons8.com/color/32/000000/web.png)](https://alejandromarcano.com)
 
 ![](https://komarev.com/ghpvc/?username=datacampero&color=brightgreen&style=flat)
+
+### Data Science related projects:
+
+|                                                                                                               |                                                                                             |
+|:-------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|
+| [Spam filter for phone messages](https://github.com/pcsingh/Spam-filter-for-Phone-Messages)                   | [Predicting the Upvotes](https://github.com/pcsingh/Predicting-the-Upvotes)                 |
+| [Mushroom classification WebApp](https://github.com/pcsingh/ML-WebApp-with-Streamlit-and-Python)              | [Popular Data Science questions](https://github.com/pcsingh/Popular-Data-Science-Questions) |
+| [Predicting-Stock-Market](https://github.com/pcsingh/Predicting-Stock-Market)                                 | [Best market for Advertisement](https://github.com/pcsingh/Best-Market-For-Advertisement)   |
+| [Predicting bikes on rent](https://github.com/pcsingh/Predicting-Bikes-On-Rent)                               | [Scraping Movie Data](https://github.com/pcsingh/scraping_movie_data)                       |
+| [WhatsApp Chat Analyzer](https://github.com/pcsingh/WhatsApp-Chat-Analyzer)                                   | [Data Science Dashboard](https://github.com/pcsingh/Data-Science-Dashboard)                 |
+| [Traffic Signal Classification using Deep Learning](https://github.com/pcsingh/Traffic-Signal-Classification) | [Neural Style Transfer](https://github.com/pcsingh/Neural_Style_Transfer)                                                              
+| [Time Series Forecasting](https://github.com/pcsingh/Time_Series_Forecasting)                                 |                                                                 |
+
+
+### Web based projects:
+- [GitHub Profile Finder](https://github.com/pcsingh/Github-Profile-Finder)
+- [Real Estate App](https://github.com/pcsingh/Real_Estate_App)
+- [WhatsApp Chat Analyzer](https://github.com/pcsingh/WhatsApp-Chat-Analyzer)
+- [Data Science Dashboard](https://github.com/pcsingh/Data-Science-Dashboard)
+- [Contact Keeper](https://github.com/pcsingh/ContactKeeper)
+
+
+
+
+
+
+
+
+
+
+
+
+[![Prem's github stats](https://github-readme-stats.vercel.app/api?username=pcsingh&hide=stars&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)]
