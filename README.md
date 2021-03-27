@@ -22,7 +22,7 @@
 <img align="center" alt="Keras" title="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />
 <img align="center" alt="OpenCV" title="OpenCV" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
 
-
+</span> 
 
 
 ---
